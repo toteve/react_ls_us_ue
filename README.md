@@ -2,11 +2,11 @@
 
 Aplicacion de React que permite usar:
 
-Array
-LocalStorage para almacenar
-map para recorrer arreglos
-spread operator para no mutar el arreglo (push muta el arreglo)
-useState para manejar estados
+Array,
+LocalStorage para almacenar,
+map para recorrer arreglos,
+spread operator para no mutar el arreglo (push muta el arreglo),
+useState para manejar estados,
 useEffect para efectos secundarios en componente
 
 

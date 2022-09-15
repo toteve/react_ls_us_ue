@@ -2,7 +2,7 @@
   "name": "tasksapp",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://faztweb.github.io/react-tasksapp-localstorage",
+  "homepage": "https://toteve.github.io/react_ls_us_ue",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
